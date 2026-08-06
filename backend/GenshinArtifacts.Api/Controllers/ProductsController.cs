@@ -9,4 +9,10 @@ public class ProductsController : ControllerBase
 {
     private static readonly List<Product> _products = new();
     private static int _nextId = 1;
+
+    [HttpGet]
+    public ActionResult<IEnumerable<Product>> GetProducts()
+    {
+        return _products;
+    }
 }
