@@ -1,25 +1,26 @@
 ## Jira Ticket
-<!-- Jira Ticket link here -->
-- https://bryanjerahmeelyao.atlassian.net/browse/
+
+<!-- Link the Jira ticket here -->
+- https://bryanjerahmeelyao.atlassian.net/browse/{JIRA_TICKET_ID}
 
 ---
 
 ## Description
 
-<!-- Write a description of your work. What does it do? -->
+<!-- Briefly describe what was changed and why. -->
 
 ---
 
 ## Learnings
 
-<!-- List down what you learned in this work -->
-* 
+<!-- What did you learn while implementing this task? -->
+<!-- Mention any new concepts, discoveries, or decisions worth remembering. -->
 
 ---
 
 ## Change Type
 
-* [ ] Feature
-* [ ] Documentation
-* [ ] Bug fix
-* [ ] Hotfix/TS
+- [ ] Feature
+- [ ] Documentation
+- [ ] Bug fix
+- [ ] Hotfix/TS
